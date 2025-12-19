@@ -153,7 +153,7 @@ print(top_drugs[['Drug', 'Avg_Effectiveness', 'Avg_Satisfaction', 'Recommendatio
 **Margueritte** - Master's 2 Student in Artificial Intelligence
 
 - 🎓 Specialization: Natural Language Processing & Machine Learning
-- 📍 Location: Algiers, Algeria
+- 📍 Location: Algeria
 - 🎯 Graduating: June 2026
 
 ## 📄 License
